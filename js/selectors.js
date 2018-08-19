@@ -2,3 +2,4 @@
 function paragraphSelector(){
   $('p:first-child').append("aaaaaaaaaaaaa")
 }
+paragraphSelector()
