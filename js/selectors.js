@@ -1,4 +1,4 @@
 // declare your functions here...
 function paragraphSelector(){
-  $('p').append("aaaaaaaaaaaaa")
+  $('p:first-child').append("aaaaaaaaaaaaa")
 }
